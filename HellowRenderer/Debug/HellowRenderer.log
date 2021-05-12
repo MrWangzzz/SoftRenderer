@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\MeilinRenderer\HellowRenderer\Main.cpp(22,9): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\MeilinRenderer\HellowRenderer\Main.cpp(23,9): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  HellowRenderer.vcxproj -> D:\MeilinRenderer\HellowRenderer\Debug\HellowRenderer.exe

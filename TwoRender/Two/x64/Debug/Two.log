@@ -1,0 +1,13 @@
+﻿  DrawLine.cpp
+D:\MeilinRenderer\TwoRender\Two\Random.h(17,15): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+D:\MeilinRenderer\TwoRender\Two\Random.h(23,25): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\MeilinRenderer\TwoRender\Two\FPS.h(17,16): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+D:\MeilinRenderer\TwoRender\Two\DrawLine.cpp(53,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\MeilinRenderer\TwoRender\Two\DrawLine.cpp(55,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\MeilinRenderer\TwoRender\Two\DrawLine.cpp(55,8): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\MeilinRenderer\TwoRender\Two\DrawLine.cpp(70,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\MeilinRenderer\TwoRender\Two\DrawLine.cpp(72,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\MeilinRenderer\TwoRender\Two\DrawLine.cpp(72,8): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+Mathf.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+  Two.vcxproj -> D:\MeilinRenderer\TwoRender\Two\x64\Debug\Two.exe

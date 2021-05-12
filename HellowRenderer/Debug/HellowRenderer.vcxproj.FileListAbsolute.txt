@@ -1,0 +1,2 @@
+D:\MeilinRenderer\HellowRenderer\Debug\HellowRenderer.exe
+D:\MeilinRenderer\HellowRenderer\Debug\HellowRenderer.pdb

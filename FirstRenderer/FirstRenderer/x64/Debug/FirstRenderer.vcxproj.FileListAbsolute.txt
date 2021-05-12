@@ -1,0 +1,2 @@
+D:\MeilinRenderer\FirstRenderer\FirstRenderer\x64\Debug\FirstRenderer.exe
+D:\MeilinRenderer\FirstRenderer\FirstRenderer\x64\Debug\FirstRenderer.pdb
